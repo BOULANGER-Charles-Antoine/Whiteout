@@ -1,0 +1,1264 @@
+﻿Log file open, 05/20/23 23:28:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Custom abort handler registered for crash reporting.
+LogCore: Display: UnrealTraceServer: Unable to launch the trace store with '"../../../Engine//Binaries/Win64/UnrealTraceServer.exe" fork' (00000002)
+LogCore: Initializing trace...
+LogCore: Finished trace initialization.
+LogIoDispatcher: Display: Reading toc: ../../../Whiteout/Content/Paks/global.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../Whiteout/Content/Paks/global.utoc' in location slot 0
+LogPakFile: Display: Initialized I/O dispatcher file backend. Mounted the global container: ../../../Whiteout/Content/Paks/global.utoc
+LogPakFile: Display: Found Pak file ../../../Whiteout/Content/Paks/Whiteout-WindowsServer.pak attempting to mount.
+LogPakFile: Display: Mounting pak file ../../../Whiteout/Content/Paks/Whiteout-WindowsServer.pak.
+LogIoDispatcher: Display: Reading toc: ../../../Whiteout/Content/Paks/Whiteout-WindowsServer.utoc
+LogIoDispatcher: Display: Toc signature hash: 0000000000000000000000000000000000000000
+LogIoDispatcher: Display: Mounting container '../../../Whiteout/Content/Paks/Whiteout-WindowsServer.utoc' in location slot 0
+LogPakFile: Display: Mounted IoStore container "../../../Whiteout/Content/Paks/Whiteout-WindowsServer.utoc"
+LogPakFile: Display: Mounted Pak file '../../../Whiteout/Content/Paks/Whiteout-WindowsServer.pak', mount point: '../../../'
+LogAssetRegistry: Premade AssetRegistry loaded from '../../../Whiteout/AssetRegistry.bin'
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Test"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.1-CL-0"
+LogCsvProfiler: Display: Metadata set : engineversion="5.1.1-0+++UE5+Release-5.1"
+LogCsvProfiler: Display: Metadata set : commandline="" -log""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="090f7dfa43a7e826e0accc87089dfbc8"
+LogCsvProfiler: Display: Metadata set : asan="0"
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-AD7AA11745D38C61C18738AF993205FF
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin BlueprintHeaderView
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin EnhancedInput
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCaching
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin Dataflow
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Iris
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin StructUtils
+LogPluginManager: Mounting Engine plugin UVEditor
+LogPluginManager: Mounting Engine plugin VirtualHeightfieldMesh
+LogPluginManager: Mounting Engine plugin CascadeToNiagaraConverter
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlate
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin EOSShared
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemSteam
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin EOSVoiceChat
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin AudioWidgets
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin DataRegistry
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GameplayAbilities
+LogPluginManager: Mounting Engine plugin GameplayStateTree
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin InputDebugging
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin Metasound
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SoundUtilities
+LogPluginManager: Mounting Engine plugin StateTree
+LogPluginManager: Mounting Engine plugin SteamAudio
+LogPluginManager: Mounting Engine plugin SteamShared
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WaveTable
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Project plugin AdvancedSessions
+LogPluginManager: Mounting Project plugin AdvancedSteamSessions
+LogPluginManager: Mounting Project plugin Wwise
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/VirtualHeightfieldMesh/Content/' mounted to '/VirtualHeightfieldMesh/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/CascadeToNiagaraConverter/Content/' mounted to '/CascadeToNiagaraConverter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GameplayStateTree/Content/' mounted to '/GameplayStateTree/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/SoundUtilities/Content/' mounted to '/SoundUtilities/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/StateTree/Content/' mounted to '/StateTree/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Steam/SteamAudio/Content/' mounted to '/SteamAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Wwise/Content/' mounted to '/Wwise/'
+LogInit: Using libcurl 7.83.1
+LogInit:  - built for Windows
+LogInit:  - supports SSL with OpenSSL/1.1.1n
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.12
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.53
+LogSteamShared: Steam SDK Loaded!
+LogOnline: STEAM: [AppId: 480] Game Server API initialized 1
+LogOnline: STEAM: Initializing SteamNetworking Layer
+LogOnline: STEAM: Missing P2PCleanupTimeout key in OnlineSubsystemSteam of DefaultEngine.ini, using default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: STEAM: AUTH: Steam Auth Enabled
+LogOnline: OSS: Created online subsystem instance for: STEAM
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [STEAM]
+LogInit: Build: ++UE5+Release-5.1-CL-0
+LogInit: Engine Version: 5.1.1-0+++UE5+Release-5.1
+LogInit: Compatible Engine Version: 5.1.0-0+++UE5+Release-5.1
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2965] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz, GPU: NVIDIA GeForce RTX 3070
+LogInit: Compiled (64-bit): May 20 2023 23:03:46
+LogInit: Compiled with Visual C++: 19.29.30147.00
+LogInit: Build Configuration: Test
+LogInit: Branch Name: ++UE5+Release-5.1
+LogInit: Command Line:  -log
+LogInit: Base Directory: D:/Build/TestNoSnow/WindowsServer/Whiteout/Binaries/Win64/
+LogInit: Allocator: binned2
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 37
+LogDevObjectVersion:   Dev-ControlRig (A7820CFB-20A7-4359-8C54-2C149623CF50): 21
+LogDevObjectVersion:   Dev-IKRig (F6DFBB78-BB50-A0E4-4018-B84D60CBAF23): 2
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 80
+LogDevObjectVersion:   FortniteNC (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 4
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 88
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 41
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 2097152 objects, including 1 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: false
+LogStreaming: Display: AsyncLoading2 - Initialized
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugEarlyDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugEarlyCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: Set CVar [[r.setres:1280x720]]
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: Set CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
+LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
+[2023.05.21-03.28.50:089][  0]LogConfig: CVar [[con.DebugEarlyDefault:1]] deferred - dummy variable created
+[2023.05.21-03.28.50:089][  0]LogConfig: CVar [[con.DebugEarlyCheat:1]] deferred - dummy variable created
+[2023.05.21-03.28.50:089][  0]LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+[2023.05.21-03.28.50:089][  0]LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+[2023.05.21-03.28.50:090][  0]LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+[2023.05.21-03.28.50:090][  0]LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+[2023.05.21-03.28.50:090][  0]LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.05.21-03.28.50:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.05.21-03.28.50:091][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.05.21-03.28.50:091][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.05.21-03.28.50:091][  0]LogConfig: Set CVar [[r.GPUCrashDebugging:0]]
+[2023.05.21-03.28.50:091][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.05.21-03.28.50:092][  0]LogConfig: Set CVar [[r.ReflectionMethod:1]]
+[2023.05.21-03.28.50:092][  0]LogConfig: Set CVar [[r.GenerateMeshDistanceFields:1]]
+[2023.05.21-03.28.50:092][  0]LogConfig: Set CVar [[r.DynamicGlobalIlluminationMethod:1]]
+[2023.05.21-03.28.50:092][  0]LogConfig: Set CVar [[r.Mobile.EnableNoPrecomputedLightingCSMShader:1]]
+[2023.05.21-03.28.50:093][  0]LogConfig: Set CVar [[r.Shadow.Virtual.Enable:1]]
+[2023.05.21-03.28.50:093][  0]LogConfig: Set CVar [[r.RayTracing:0]]
+[2023.05.21-03.28.50:093][  0]LogConfig: Set CVar [[r.VirtualTextures:1]]
+[2023.05.21-03.28.50:093][  0]LogConfig: Set CVar [[r.TextureStreaming:1]]
+[2023.05.21-03.28.50:093][  0]LogConfig: Set CVar [[r.Streaming.PoolSize:8000]]
+[2023.05.21-03.28.50:094][  0]LogConfig: Set CVar [[r.CustomDepth:3]]
+[2023.05.21-03.28.50:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.05.21-03.28.50:094][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.05.21-03.28.50:094][  0]LogConfig: Set CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.05.21-03.28.50:094][  0]LogConfig: Set CVar [[s.AsyncLoadingThreadEnabled:1]]
+[2023.05.21-03.28.50:095][  0]LogConfig: Set CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.05.21-03.28.50:095][  0]LogConfig: Set CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.05.21-03.28.50:095][  0]LogConfig: Set CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.05.21-03.28.50:095][  0]LogConfig: Set CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.05.21-03.28.50:095][  0]LogConfig: Set CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.05.21-03.28.50:096][  0]LogConfig: Set CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.05.21-03.28.50:096][  0]LogConfig: Set CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.05.21-03.28.50:096][  0]LogConfig: Set CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.05.21-03.28.50:096][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.05.21-03.28.50:097][  0]LogConfig: Set CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.05.21-03.28.50:097][  0]LogConfig: Set CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.05.21-03.28.50:097][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.05.21-03.28.50:097][  0]LogConfig: Set CVar [[s.FlushStreamingOnExit:1]]
+[2023.05.21-03.28.50:097][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.05.21-03.28.50:098][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.05.21-03.28.50:098][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.05.21-03.28.50:098][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.05.21-03.28.50:098][  0]LogConfig: Set CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.05.21-03.28.50:099][  0]LogConfig: Set CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.05.21-03.28.50:102][  0]LogConfig: Set CVar [[gc.FlushStreamingOnGC:0]]
+[2023.05.21-03.28.50:102][  0]LogConfig: Set CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.05.21-03.28.50:102][  0]LogConfig: Set CVar [[gc.AllowParallelGC:1]]
+[2023.05.21-03.28.50:103][  0]LogConfig: Set CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.05.21-03.28.50:103][  0]LogConfig: Set CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.05.21-03.28.50:103][  0]LogConfig: Set CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.05.21-03.28.50:103][  0]LogConfig: Set CVar [[gc.CreateGCClusters:1]]
+[2023.05.21-03.28.50:103][  0]LogConfig: Set CVar [[gc.MinGCClusterSize:5]]
+[2023.05.21-03.28.50:104][  0]LogConfig: Set CVar [[gc.AssetClustreringEnabled:0]]
+[2023.05.21-03.28.50:104][  0]LogConfig: Set CVar [[gc.ActorClusteringEnabled:0]]
+[2023.05.21-03.28.50:104][  0]LogConfig: Set CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.05.21-03.28.50:104][  0]LogConfig: Set CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.05.21-03.28.50:105][  0]LogConfig: Set CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.05.21-03.28.50:105][  0]LogConfig: Set CVar [[gc.VerifyGCObjectNames:1]]
+[2023.05.21-03.28.50:105][  0]LogConfig: Set CVar [[gc.VerifyUObjectsAreNotFGCObjects:0]]
+[2023.05.21-03.28.50:105][  0]LogConfig: Set CVar [[gc.PendingKillEnabled:1]]
+[2023.05.21-03.28.50:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.05.21-03.28.50:106][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.05.21-03.28.50:106][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.05.21-03.28.50:106][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.05.21-03.28.50:106][  0]LogConfig: Set CVar [[r.SkeletalMeshLODBias:0]]
+[2023.05.21-03.28.50:106][  0]LogConfig: Set CVar [[r.ViewDistanceScale:1.0]]
+[2023.05.21-03.28.50:107][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.05.21-03.28.50:107][  0]LogConfig: Set CVar [[r.FXAA.Quality:4]]
+[2023.05.21-03.28.50:107][  0]LogConfig: Set CVar [[r.TemporalAA.Quality:2]]
+[2023.05.21-03.28.50:107][  0]LogConfig: Set CVar [[r.TSR.History.R11G11B10:1]]
+[2023.05.21-03.28.50:108][  0]LogConfig: Set CVar [[r.TSR.History.ScreenPercentage:100]]
+[2023.05.21-03.28.50:108][  0]LogConfig: Set CVar [[r.TSR.History.UpdateQuality:3]]
+[2023.05.21-03.28.50:108][  0]LogConfig: Set CVar [[r.TSR.History.GrandReprojection:1]]
+[2023.05.21-03.28.50:108][  0]LogConfig: Set CVar [[r.TSR.ShadingRejection.Flickering:1]]
+[2023.05.21-03.28.50:109][  0]LogConfig: Set CVar [[r.TSR.Velocity.Extrapolation:1]]
+[2023.05.21-03.28.50:110][  0]LogConfig: CVar [[r.TSR.Velocity.HoleFill:1]] deferred - dummy variable created
+[2023.05.21-03.28.50:110][  0]LogConfig: Set CVar [[r.TSR.RejectionAntiAliasingQuality:2]]
+[2023.05.21-03.28.50:110][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.05.21-03.28.50:110][  0]LogConfig: Set CVar [[r.LightFunctionQuality:1]]
+[2023.05.21-03.28.50:111][  0]LogConfig: Set CVar [[r.ShadowQuality:5]]
+[2023.05.21-03.28.50:111][  0]LogConfig: Set CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.05.21-03.28.50:111][  0]LogConfig: Set CVar [[r.Shadow.MaxResolution:2048]]
+[2023.05.21-03.28.50:112][  0]LogConfig: Set CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.05.21-03.28.50:112][  0]LogConfig: Set CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.05.21-03.28.50:112][  0]LogConfig: Set CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.05.21-03.28.50:112][  0]LogConfig: Set CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.05.21-03.28.50:113][  0]LogConfig: Set CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.05.21-03.28.50:113][  0]LogConfig: Set CVar [[r.DistanceFieldShadowing:1]]
+[2023.05.21-03.28.50:113][  0]LogConfig: Set CVar [[r.DistanceFieldAO:1]]
+[2023.05.21-03.28.50:113][  0]LogConfig: Set CVar [[r.AOQuality:2]]
+[2023.05.21-03.28.50:114][  0]LogConfig: Set CVar [[r.VolumetricFog:1]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.CapsuleShadows:1]]
+[2023.05.21-03.28.50:116][  0]LogConfig: Set CVar [[r.Shadow.Virtual.MaxPhysicalPages:4096]]
+[2023.05.21-03.28.50:117][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasDirectional:-1.5]]
+[2023.05.21-03.28.50:117][  0]LogConfig: Set CVar [[r.Shadow.Virtual.ResolutionLodBiasLocal:0.0]]
+[2023.05.21-03.28.50:117][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountDirectional:8]]
+[2023.05.21-03.28.50:117][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayDirectional:4]]
+[2023.05.21-03.28.50:117][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.RayCountLocal:8]]
+[2023.05.21-03.28.50:118][  0]LogConfig: Set CVar [[r.Shadow.Virtual.SMRT.SamplesPerRayLocal:4]]
+[2023.05.21-03.28.50:118][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.05.21-03.28.50:118][  0]LogConfig: Set CVar [[r.Lumen.DiffuseIndirect.Allow:1]]
+[2023.05.21-03.28.50:118][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.ProbeSpacing:4]]
+[2023.05.21-03.28.50:118][  0]LogConfig: Set CVar [[r.LumenScene.Radiosity.HemisphereProbeResolution:4]]
+[2023.05.21-03.28.50:119][  0]LogConfig: Set CVar [[r.Lumen.TraceMeshSDFs.Allow:1]]
+[2023.05.21-03.28.50:119][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.ProbeResolution:32]]
+[2023.05.21-03.28.50:119][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.RadianceCache.NumProbesToTraceBudget:300]]
+[2023.05.21-03.28.50:119][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.ScreenSpaceBentNormal:1]]
+[2023.05.21-03.28.50:120][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.DownsampleFactor:16]]
+[2023.05.21-03.28.50:120][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TracingOctahedronResolution:8]]
+[2023.05.21-03.28.50:120][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.IrradianceFormat:0]]
+[2023.05.21-03.28.50:120][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.StochasticInterpolation:0]]
+[2023.05.21-03.28.50:120][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.FullResolutionJitterWidth:1]]
+[2023.05.21-03.28.50:121][  0]LogConfig: Set CVar [[r.Lumen.ScreenProbeGather.TwoSidedFoliageBackfaceDiffuse:1]]
+[2023.05.21-03.28.50:121][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.GridPixelSize:32]]
+[2023.05.21-03.28.50:121][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TraceFromVolume:1]]
+[2023.05.21-03.28.50:121][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.TracingOctahedronResolution:3]]
+[2023.05.21-03.28.50:122][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.ProbeResolution:8]]
+[2023.05.21-03.28.50:122][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyVolume.RadianceCache.NumProbesToTraceBudget:200]]
+[2023.05.21-03.28.50:122][  0]LogConfig: Set CVar [[r.LumenScene.SurfaceCache.CardCaptureRefreshFraction:0.125]]
+[2023.05.21-03.28.50:122][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.05.21-03.28.50:122][  0]LogConfig: Set CVar [[r.Lumen.Reflections.Allow:1]]
+[2023.05.21-03.28.50:122][  0]LogConfig: Set CVar [[r.Lumen.Reflections.DownsampleFactor:1]]
+[2023.05.21-03.28.50:123][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Allow:1]]
+[2023.05.21-03.28.50:123][  0]LogConfig: Set CVar [[r.Lumen.TranslucencyReflections.FrontLayer.Enable:0]]
+[2023.05.21-03.28.50:123][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.05.21-03.28.50:123][  0]LogConfig: Set CVar [[r.MotionBlurQuality:4]]
+[2023.05.21-03.28.50:123][  0]LogConfig: Set CVar [[r.MotionBlur.HalfResGather:0]]
+[2023.05.21-03.28.50:124][  0]LogConfig: Set CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.DepthOfFieldQuality:2]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.RenderTargetPoolMin:400]]
+[2023.05.21-03.28.50:126][  0]LogConfig: Set CVar [[r.LensFlareQuality:2]]
+[2023.05.21-03.28.50:127][  0]LogConfig: Set CVar [[r.SceneColorFringeQuality:1]]
+[2023.05.21-03.28.50:127][  0]LogConfig: Set CVar [[r.EyeAdaptationQuality:2]]
+[2023.05.21-03.28.50:128][  0]LogConfig: Set CVar [[r.BloomQuality:5]]
+[2023.05.21-03.28.50:128][  0]LogConfig: Set CVar [[r.Bloom.ScreenPercentage:70.711]]
+[2023.05.21-03.28.50:128][  0]LogConfig: Set CVar [[r.FastBlurThreshold:100]]
+[2023.05.21-03.28.50:130][  0]LogConfig: Set CVar [[r.Upscale.Quality:3]]
+[2023.05.21-03.28.50:132][  0]LogConfig: Set CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.05.21-03.28.50:132][  0]LogConfig: Set CVar [[r.LightShaftQuality:1]]
+[2023.05.21-03.28.50:133][  0]LogConfig: Set CVar [[r.Filter.SizeScale:1]]
+[2023.05.21-03.28.50:134][  0]LogConfig: Set CVar [[r.Tonemapper.Quality:5]]
+[2023.05.21-03.28.50:135][  0]LogConfig: Set CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.05.21-03.28.50:136][  0]LogConfig: Set CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.05.21-03.28.50:136][  0]LogConfig: Set CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.05.21-03.28.50:136][  0]LogConfig: Set CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.05.21-03.28.50:137][  0]LogConfig: Set CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.05.21-03.28.50:137][  0]LogConfig: Set CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.05.21-03.28.50:137][  0]LogConfig: Set CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.05.21-03.28.50:137][  0]LogConfig: Set CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Set CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Set CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Set CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Set CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.05.21-03.28.50:138][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.05.21-03.28.50:139][  0]LogConfig: Set CVar [[r.Streaming.MipBias:0]]
+[2023.05.21-03.28.50:139][  0]LogConfig: Set CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.05.21-03.28.50:139][  0]LogConfig: Set CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.05.21-03.28.50:139][  0]LogConfig: Set CVar [[r.Streaming.Boost:1]]
+[2023.05.21-03.28.50:139][  0]LogConfig: Set CVar [[r.MaxAnisotropy:8]]
+[2023.05.21-03.28.50:140][  0]LogConfig: Set CVar [[r.VT.MaxAnisotropy:8]]
+[2023.05.21-03.28.50:140][  0]LogConfig: Set CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.05.21-03.28.50:140][  0]LogConsoleManager: Warning: Setting the console variable 'r.Streaming.PoolSize' with 'SetByScalability' was ignored as it is lower priority than the previous 'SetByProjectSetting'. Value remains '8000'
+[2023.05.21-03.28.50:141][  0]LogConfig: Set CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.05.21-03.28.50:142][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.05.21-03.28.50:142][  0]LogConfig: Set CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.05.21-03.28.50:142][  0]LogConfig: Set CVar [[r.RefractionQuality:2]]
+[2023.05.21-03.28.50:142][  0]LogConfig: Set CVar [[r.SSR.Quality:3]]
+[2023.05.21-03.28.50:142][  0]LogConfig: Set CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.05.21-03.28.50:143][  0]LogConfig: Set CVar [[r.SceneColorFormat:4]]
+[2023.05.21-03.28.50:143][  0]LogConfig: Set CVar [[r.DetailMode:2]]
+[2023.05.21-03.28.50:143][  0]LogConfig: Set CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.05.21-03.28.50:143][  0]LogConfig: Set CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.05.21-03.28.50:144][  0]LogConfig: Set CVar [[r.SSS.Scale:1]]
+[2023.05.21-03.28.50:144][  0]LogConfig: Set CVar [[r.SSS.SampleSet:2]]
+[2023.05.21-03.28.50:144][  0]LogConfig: Set CVar [[r.SSS.Quality:1]]
+[2023.05.21-03.28.50:144][  0]LogConfig: Set CVar [[r.SSS.HalfRes:0]]
+[2023.05.21-03.28.50:144][  0]LogConfig: Set CVar [[r.SSGI.Quality:3]]
+[2023.05.21-03.28.50:145][  0]LogConfig: Set CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.05.21-03.28.50:146][  0]LogConfig: Set CVar [[r.ParticleLightQuality:2]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.05.21-03.28.50:147][  0]LogConfig: Set CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.05.21-03.28.50:148][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.05.21-03.28.50:148][  0]LogConfig: Set CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.05.21-03.28.50:148][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.05.21-03.28.50:149][  0]LogConfig: Set CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.05.21-03.28.50:149][  0]LogConfig: Set CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.05.21-03.28.50:149][  0]LogConfig: Set CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.05.21-03.28.50:151][  0]LogConfig: Set CVar [[fx.Niagara.QualityLevel:3]]
+[2023.05.21-03.28.50:152][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.05.21-03.28.50:152][  0]LogConfig: Set CVar [[foliage.DensityScale:1.0]]
+[2023.05.21-03.28.50:152][  0]LogConfig: Set CVar [[grass.DensityScale:1.0]]
+[2023.05.21-03.28.50:152][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.05.21-03.28.50:152][  0]LogConfig: Set CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.05.21-03.28.50:153][  0]LogConfig: Set CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.05.21-03.28.50:153][  0]LogConfig: Set CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.05.21-03.28.50:153][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.05.21-03.28.50:153][  0]LogConfig: Set CVar [[r.AnisotropicMaterials:1]]
+[2023.05.21-03.28.50:153][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.05.21-03.28.50:154][  0]LogHAL: Display: Platform has ~ 64 GB [68378025984 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.05.21-03.28.50:154][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.05.21-03.28.50:154][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.05.21-03.28.50:154][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.05.21-03.28.50:155][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.05.21-03.28.50:155][  0]LogInit: Computer: L12705-20-81737
+[2023.05.21-03.28.50:155][  0]LogInit: User: lemx1401
+[2023.05.21-03.28.50:155][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.05.21-03.28.50:155][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.05.21-03.28.50:155][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2023.05.21-03.28.50:156][  0]LogMemory: Platform Memory Stats for WindowsServer
+[2023.05.21-03.28.50:156][  0]LogMemory: Process Physical Memory: 119.25 MB used, 119.25 MB peak
+[2023.05.21-03.28.50:156][  0]LogMemory: Process Virtual Memory: 113.31 MB used, 113.31 MB peak
+[2023.05.21-03.28.50:157][  0]LogMemory: Physical Memory: 24992.49 MB used,  40217.88 MB free, 65210.37 MB total
+[2023.05.21-03.28.50:157][  0]LogMemory: Virtual Memory: 42252.37 MB used,  32686.00 MB free, 74938.37 MB total
+[2023.05.21-03.28.50:157][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.05.21-03.28.50:346][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2023.05.21-03.28.50:346][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.05.21-03.28.50:347][  0]LogInit: Using OS detected language (fr-CA).
+[2023.05.21-03.28.50:347][  0]LogInit: Using OS detected locale (fr-CA).
+[2023.05.21-03.28.50:348][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the language.
+[2023.05.21-03.28.50:348][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the locale.
+[2023.05.21-03.28.50:370][  0]LogRendererCore: Ray tracing is disabled. Reason: disabled through project setting (r.RayTracing=0).
+[2023.05.21-03.28.50:375][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+[2023.05.21-03.28.50:375][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+[2023.05.21-03.28.50:376][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+[2023.05.21-03.28.50:380][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+[2023.05.21-03.28.50:380][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Bridge/Content/' mounted to '/Bridge/'
+[2023.05.21-03.28.50:381][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+[2023.05.21-03.28.50:381][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/BlueprintHeaderView/Content/' mounted to '/BlueprintHeaderView/'
+[2023.05.21-03.28.50:381][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+[2023.05.21-03.28.50:381][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/ObjectMixer/LightMixer/Content/' mounted to '/LightMixer/'
+[2023.05.21-03.28.50:381][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content/' mounted to '/ObjectMixer/'
+[2023.05.21-03.28.50:382][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+[2023.05.21-03.28.50:382][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+[2023.05.21-03.28.50:382][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Enterprise/GLTFExporter/Content/' mounted to '/GLTFExporter/'
+[2023.05.21-03.28.50:382][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosCaching/Content/' mounted to '/ChaosCaching/'
+[2023.05.21-03.28.50:382][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+[2023.05.21-03.28.50:383][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+[2023.05.21-03.28.50:383][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+[2023.05.21-03.28.50:383][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Dataflow/Content/' mounted to '/Dataflow/'
+[2023.05.21-03.28.50:383][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+[2023.05.21-03.28.50:383][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+[2023.05.21-03.28.50:384][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+[2023.05.21-03.28.50:384][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+[2023.05.21-03.28.50:384][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/UVEditor/Content/' mounted to '/UVEditor/'
+[2023.05.21-03.28.50:384][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Experimental/VirtualHeightfieldMesh/Content/' mounted to '/VirtualHeightfieldMesh/'
+[2023.05.21-03.28.50:384][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/CascadeToNiagaraConverter/Content/' mounted to '/CascadeToNiagaraConverter/'
+[2023.05.21-03.28.50:385][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+[2023.05.21-03.28.50:385][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+[2023.05.21-03.28.50:385][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Media/MediaPlate/Content/' mounted to '/MediaPlate/'
+[2023.05.21-03.28.50:386][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+[2023.05.21-03.28.50:386][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+[2023.05.21-03.28.50:386][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/AudioWidgets/Content/' mounted to '/AudioWidgets/'
+[2023.05.21-03.28.50:386][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GameplayStateTree/Content/' mounted to '/GameplayStateTree/'
+[2023.05.21-03.28.50:387][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+[2023.05.21-03.28.50:387][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Metasound/Content/' mounted to '/Metasound/'
+[2023.05.21-03.28.50:387][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+[2023.05.21-03.28.50:387][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/SoundUtilities/Content/' mounted to '/SoundUtilities/'
+[2023.05.21-03.28.50:388][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/StateTree/Content/' mounted to '/StateTree/'
+[2023.05.21-03.28.50:388][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Steam/SteamAudio/Content/' mounted to '/SteamAudio/'
+[2023.05.21-03.28.50:388][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+[2023.05.21-03.28.50:388][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/Runtime/WaveTable/Content/' mounted to '/WaveTable/'
+[2023.05.21-03.28.50:388][  0]LogPackageName: Display: FPackageName: Mount point added: '../../../Engine/Plugins/VirtualProduction/Takes/Content/' mounted to '/Takes/'
+[2023.05.21-03.28.50:389][  0]LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Wwise/Content/' mounted to '/Wwise/'
+[2023.05.21-03.28.50:389][  0]LogInit: Using OS detected language (fr-CA).
+[2023.05.21-03.28.50:389][  0]LogInit: Using OS detected locale (fr-CA).
+[2023.05.21-03.28.50:389][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the language.
+[2023.05.21-03.28.50:390][  0]LogTextLocalizationManager: No localization for 'fr-CA' exists, so 'en' will be used for the locale.
+[2023.05.21-03.28.50:391][  0]LogAssetRegistry: FAssetRegistry took 0.0009 seconds to start up
+[2023.05.21-03.28.50:453][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2023.05.21-03.28.50:454][  0]LogInit: Selected Device Profile: [WindowsServer]
+[2023.05.21-03.28.50:455][  0]LogDeviceProfileManager: Available device profiles:
+[2023.05.21-03.28.50:455][  0]LogDeviceProfileManager: 	[000001CCD3425D40][000001CCD27EDB70 52] Windows, 
+[2023.05.21-03.28.50:455][  0]LogDeviceProfileManager: 	[000001CCD3425B80][000001CCD27E4930 52] WindowsServer, 
+[2023.05.21-03.28.50:456][  0]LogDeviceProfileManager: Active device profile: [000001CCD3425B80][000001CCD27E4930 52] WindowsServer
+[2023.05.21-03.28.50:456][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsServer"
+[2023.05.21-03.28.50:466][  0]LogNetVersion: Whiteout 1.0.0, NetCL: 0, EngineNetVer: 30, GameNetVer: 0 (Checksum: 4241128155)
+[2023.05.21-03.28.50:467][  0]ImportText (NetDriverDefinitions): Missing opening parenthesis: ClearArray
+[2023.05.21-03.28.50:487][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.21-03.28.50:487][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.05.21-03.28.50:492][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2023.05.21-03.28.50:513][  0]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.000069 seconds
+[2023.05.21-03.28.50:518][  0]LogUObjectArray: 21259 objects as part of root set at end of initial load.
+[2023.05.21-03.28.50:521][  0]LogUObjectAllocator: 4661328 out of 0 bytes used by permanent object pool.
+[2023.05.21-03.28.50:521][  0]LogUObjectArray: CloseDisregardForGC: 21259/0 objects in disregard for GC pool
+[2023.05.21-03.28.50:526][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FFB302384E2C74873CCD3EAB1E64C500 | Instance: D7C2CC7041669029D7F82FB2B2537F16 (L12705-20-81737-45788).
+[2023.05.21-03.28.50:542][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.05.21-03.28.50:542][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2023.05.21-03.28.50:542][  0]LogSteamAudio: FSteamAudioModule Startup
+[2023.05.21-03.28.50:546][  0]LogSteamAudio: Display: Attempting to load ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll
+[2023.05.21-03.28.50:925][  0]LogSteamAudio: Display: Loaded ../../../Engine/Binaries/ThirdParty/Phonon/Win64/phonon.dll.
+[2023.05.21-03.28.50:926][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.05.21-03.28.50:927][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 20971 public script object entries (560.00 KB)
+[2023.05.21-03.28.50:927][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2023.05.21-03.28.50:927][  0]LogEngine: Initializing Engine...
+[2023.05.21-03.28.50:928][  0]ImportText (NetDriverDefinitions): Missing opening parenthesis: ClearArray
+[2023.05.21-03.28.50:929][  0]LogAbilitySystem: Warning: No GameplayCueNotifyPaths were specified in DefaultGame.ini under [/Script/GameplayAbilities.AbilitySystemGlobals]. Falling back to using all of /Game/. This may be slow on large projects. Consider specifying which paths are to be searched.
+[2023.05.21-03.28.50:931][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.05.21-03.28.50:932][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.05.21-03.28.50:933][  0]LogInit: Texture streaming: Disabled
+[2023.05.21-03.28.50:935][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.05.21-03.28.50:944][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-03.28.50:945][  0]LogInit: Display: Game Engine Initialized.
+[2023.05.21-03.28.50:946][  0]LogInit: Display: Starting Game.
+[2023.05.21-03.28.50:946][  0]LogNet: Browse: /Game/FirstPerson/Maps/Level_Lobby?Name=Player
+[2023.05.21-03.28.50:947][  0]LogLoad: LoadMap: /Game/FirstPerson/Maps/Level_Lobby?Name=Player
+[2023.05.21-03.28.50:947][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2023.05.21-03.28.50:947][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-03.28.50:950][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.05.21-03.28.50:951][  0]LogStreaming: Display: 0.001 ms for processing 27 objects in RemoveUnreachableObjects(Queued=1, Async=0). Removed 1 (64->63) packages and 1 (85->84) public exports.
+[2023.05.21-03.28.50:988][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-03.28.50:988][  0]LogAIModule: Creating AISystem for world Level_Lobby
+[2023.05.21-03.28.50:989][  0]LogLoad: Game class is 'BP_LobbyGameMode_C'
+[2023.05.21-03.28.50:989][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.05.21-03.28.50:989][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.05.21-03.28.50:990][  0]LogNet: Display: SteamNetDriver_2147482526 bound to port 7777
+[2023.05.21-03.28.50:990][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.21-03.28.50:995][  0]LogNet: GameNetDriver SteamNetDriver_2147482526 IpNetDriver listening on port 7777
+[2023.05.21-03.28.50:998][  0]LogWorld: Bringing World /Game/FirstPerson/Maps/Level_Lobby.Level_Lobby up for play (max tick rate 30) at 2023.05.20-23.28.50
+[2023.05.21-03.28.50:999][  0]LogWorld: Bringing up level for play took: 0.003879
+[2023.05.21-03.28.50:999][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.05.21-03.28.51:000][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.05.21-03.28.51:000][  0]LogLoad: Took 0.053941 seconds to LoadMap(/Game/FirstPerson/Maps/Level_Lobby)
+[2023.05.21-03.28.51:001][  0]LogPakFile: AllPaks IndexSizes: DirectoryHashSize=175580, PathHashSize=16, EntriesSize=49152, TotalSize=224748
+[2023.05.21-03.28.51:001][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.05.21-03.28.51:001][  0]LogLoad: (Engine Initialization) Total time: 1.64 seconds
+[2023.05.21-03.28.52:760][ 53]LogOnlineSession: Display: OSS: Session creation completed. Automatic start is turned on, starting session now.
+[2023.05.21-03.29.04:975][420]LogOnline: STEAM: Adding P2P connection information with user 76561198235309664 (Name: UNKNOWN [0x11000011064D660])
+[2023.05.21-03.29.08:459][524]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.08:459][524]LogNetVersion: Whiteout 1.0.0.0, NetCL: 0, EngineNetVer: 30, GameNetVer: 0 (Checksum: 1621143466)
+[2023.05.21-03.29.08:460][524]LogHandshake: SendConnectChallenge. Timestamp: 17.457060, Cookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:460][524]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.08:460][524]LogHandshake: SendConnectChallenge. Timestamp: 17.457060, Cookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:461][524]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.08:461][524]LogHandshake: SendConnectChallenge. Timestamp: 17.457060, Cookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:461][524]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.08:461][524]LogHandshake: SendConnectChallenge. Timestamp: 17.457060, Cookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:493][525]LogHandshake: SendChallengeAck. InCookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:493][525]LogNet: Server accepting post-challenge connection from: 76561198235309664:7777
+[2023.05.21-03.29.08:494][525]LogNet: SteamNetConnection_2147482514 setting maximum channels to: 32767
+[2023.05.21-03.29.08:494][525]PacketHandlerLog: Loaded PacketHandler component: OnlineSubsystemSteam.SteamAuthComponentModuleInterface ()
+[2023.05.21-03.29.08:495][525]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.21-03.29.08:495][525]LogOnline: STEAM: Adding user 76561198235309664:7777 from RegisterConnection
+[2023.05.21-03.29.08:495][525]LogNet: NotifyAcceptedConnection: Name: Level_Lobby, TimeStamp: 05/20/23 23:29:08, [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482514, Driver: GameNetDriver SteamNetDriver_2147482526, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.21-03.29.08:496][525]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482514, Driver: GameNetDriver SteamNetDriver_2147482526, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.21-03.29.08:496][525]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 091087214088255147184067229218008254067105021195012010051175.
+[2023.05.21-03.29.08:496][525]LogHandshake: SendChallengeAck. InCookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:496][525]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 091087214088255147184067229218008254067105021195012010051175.
+[2023.05.21-03.29.08:497][525]LogHandshake: SendChallengeAck. InCookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:497][525]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 091087214088255147184067229218008254067105021195012010051175.
+[2023.05.21-03.29.08:497][525]LogHandshake: SendChallengeAck. InCookie: 091087214088255147184067229218008254067105021195012010051175
+[2023.05.21-03.29.08:500][525]LogOnline: STEAM: AUTH HANDLER: Sending auth result to user 76561198235309664 with flag success? 1
+[2023.05.21-03.29.08:527][526]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/Level_Lobby.Level_Lobby: Accepted
+[2023.05.21-03.29.08:527][526]LogNet: Remote platform little endian=1
+[2023.05.21-03.29.08:527][526]LogNet: This platform little endian=1
+[2023.05.21-03.29.08:561][527]LogNet: Login request: ?Name=Dovakin7 userId: STEAM:UNKNOWN [0x11000011064D660] platform: STEAM
+[2023.05.21-03.29.09:255][548]LogNet: Client netspeed is 100000
+[2023.05.21-03.29.09:255][548]LogNet: Join request: /Game/FirstPerson/Maps/Level_Lobby?Name=Dovakin7?SplitscreenCount=1
+[2023.05.21-03.29.09:258][548]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.05.21-03.29.09:259][548]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:259][548]LogAbilitySystemComponent: Display: Granting ability BP_ChangeItemAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:260][548]LogAbilitySystemComponent: Display: Granting ability BP_CrouchAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:260][548]LogAbilitySystemComponent: Display: Granting ability BP_DeathAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:260][548]LogAbilitySystemComponent: Display: Passive Ability BP_DeathAbility_C_2147482495 activated on BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:260][548]LogAbilitySystemComponent: Display: Granting ability BP_DropItemAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:260][548]LogAbilitySystemComponent: Display: Granting ability BP_HoldPressInput_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:261][548]LogAbilitySystemComponent: Display: Granting ability BP_PickupItemAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:261][548]LogAbilitySystemComponent: Display: Granting ability BP_ReloadStaminaAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:261][548]LogAbilitySystemComponent: Display: Passive Ability BP_ReloadStaminaAbility_C_2147482491 activated on BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:261][548]LogAbilitySystemComponent: Display: Granting ability BP_SpeedAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:261][548]LogAbilitySystemComponent: Display: Granting ability BP_ThrowItemAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:262][548]LogAbilitySystemComponent: Display: Granting ability BP_TriggerItemAbility_C to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:262][548]LogAbilitySystemComponent: Display: Granted 10 abilities to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:262][548]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_PlayerCharacter_Lobby_C_2147482503
+[2023.05.21-03.29.09:264][548]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.05.21-03.29.09:264][548]LogNet: Join succeeded: Dovakin7
+[2023.05.21-03.29.09:454][554]LogOnlineVoice: OSS: Removing all remote talkers
+[2023.05.21-03.29.09:454][554]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: VOIPTalker /Engine/Transient.VOIPTalker_2147482453 NOT Supported.
+[2023.05.21-03.29.10:125][574]LogAbilitySystem: Display: InternalServerTryActivateAbility. Rejecting ClientActivation of Default__BP_DeathAbility_C. InternalTryActivateAbility failed: 
+[2023.05.21-03.29.10:125][574]LogAbilitySystem: Display: InternalServerTryActivateAbility. Rejecting ClientActivation of Default__BP_ReloadStaminaAbility_C. InternalTryActivateAbility failed: 
+[2023.05.21-03.29.10:126][574]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: VOIPTalker /Engine/Transient.VOIPTalker_2147482453 NOT Supported.
+[2023.05.21-03.29.21:770][922]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2023.05.21-03.29.21:771][922]LogGameState: Match State Changed from InProgress to LeavingMap
+[2023.05.21-03.29.21:772][922]LogGameMode: ProcessServerTravel: /Game/FirstPerson/Maps/ProceduralGenerationMap
+[2023.05.21-03.29.21:891][924]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2023.05.21-03.29.21:891][924]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482514, Driver: GameNetDriver SteamNetDriver_2147482526, IsServer: YES, PC: BP_LobbyPlayerController_C_2147482510, Owner: BP_LobbyPlayerController_C_2147482510, UniqueId: STEAM:UNKNOWN [0x11000011064D660]
+[2023.05.21-03.29.21:892][924]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482514, Driver: GameNetDriver SteamNetDriver_2147482526, IsServer: YES, PC: BP_LobbyPlayerController_C_2147482510, Owner: BP_LobbyPlayerController_C_2147482510, UniqueId: STEAM:UNKNOWN [0x11000011064D660], Channels: 18, Time: 2023.05.21-03.29.21
+[2023.05.21-03.29.21:892][924]LogNet: UNetConnection::SendCloseReason:
+[2023.05.21-03.29.21:893][924]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2023.05.21-03.29.21:893][924]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482514, Driver: GameNetDriver SteamNetDriver_2147482526, IsServer: YES, PC: BP_LobbyPlayerController_C_2147482510, Owner: BP_LobbyPlayerController_C_2147482510, UniqueId: STEAM:UNKNOWN [0x11000011064D660]
+[2023.05.21-03.29.21:893][924]LogHandshake: Incoming: Rejecting handshake packet with invalid session id (0 vs 0) or connection id (2 vs 1).
+[2023.05.21-03.29.21:924][925]LogOnlineVoice: OSS: Removing all remote talkers
+[2023.05.21-03.29.21:925][925]LogOnline: STEAM: Removing P2P Session Id: UNKNOWN [0x11000011064D660], Channel: 7777, IdleTime: 0.032
+[2023.05.21-03.29.23:441][972]LogOnline: STEAM: Closing channel 7777 with user 76561198235309664
+[2023.05.21-03.29.23:443][972]LogOnline: STEAM: 76561198235309664 has been removed.
+[2023.05.21-03.29.24:240][996]LogOnline: STEAM: Adding P2P connection information with user 76561198235309664 (Name: UNKNOWN [0x11000011064D660])
+[2023.05.21-03.29.25:792][ 42]LogEngine: Server switch level: /Game/FirstPerson/Maps/ProceduralGenerationMap?Name=Player
+[2023.05.21-03.29.25:792][ 42]LogNet: Browse: /Game/FirstPerson/Maps/ProceduralGenerationMap?Name=Player
+[2023.05.21-03.29.25:793][ 42]LogLoad: LoadMap: /Game/FirstPerson/Maps/ProceduralGenerationMap?Name=Player
+[2023.05.21-03.29.25:793][ 42]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/Level_Lobby
+[2023.05.21-03.29.25:793][ 42]LogNet: World NetDriver shutdown SteamNetDriver_2147482526 [GameNetDriver]
+[2023.05.21-03.29.25:793][ 42]LogNet: DestroyNamedNetDriver SteamNetDriver_2147482526 [GameNetDriver]
+[2023.05.21-03.29.25:794][ 42]LogExit: GameNetDriver SteamNetDriver_2147482526 shut down
+[2023.05.21-03.29.25:794][ 42]LogWorld: UWorld::CleanupWorld for Level_Lobby, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-03.29.25:805][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.05.21-03.29.25:806][ 42]LogStreaming: Display: 0.061 ms for processing 4969 objects in RemoveUnreachableObjects(Queued=1, Async=0). Removed 505 (568->63) packages and 1611 (1695->84) public exports.
+[2023.05.21-03.29.25:874][ 42]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.05.21-03.29.25:874][ 42]LogAIModule: Creating AISystem for world ProceduralGenerationMap
+[2023.05.21-03.29.25:875][ 42]LogLoad: Game class is 'BP_WOGameMode_C'
+[2023.05.21-03.29.25:875][ 42]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2023.05.21-03.29.25:875][ 42]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2023.05.21-03.29.25:875][ 42]LogNet: Display: SteamNetDriver_2147482199 bound to port 7777
+[2023.05.21-03.29.25:876][ 42]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.21-03.29.25:876][ 42]LogNet: GameNetDriver SteamNetDriver_2147482199 IpNetDriver listening on port 7777
+[2023.05.21-03.29.25:888][ 42]LogWorld: Bringing World /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap up for play (max tick rate 30) at 2023.05.20-23.29.25
+[2023.05.21-03.29.25:889][ 42]LogWorld: Bringing up level for play took: 0.012875
+[2023.05.21-03.29.25:937][ 42]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.05.21-03.29.25:939][ 42]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.05.21-03.29.25:939][ 42]LogLoad: Took 0.147483 seconds to LoadMap(/Game/FirstPerson/Maps/ProceduralGenerationMap)
+[2023.05.21-03.29.27:726][ 97]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.27:726][ 97]LogHandshake: SendConnectChallenge. Timestamp: 1.967099, Cookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:727][ 97]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.27:727][ 97]LogHandshake: SendConnectChallenge. Timestamp: 1.967099, Cookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:727][ 97]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.27:727][ 97]LogHandshake: SendConnectChallenge. Timestamp: 1.967099, Cookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:728][ 97]LogNet: NotifyAcceptingConnection accepted from: 76561198235309664:7777
+[2023.05.21-03.29.27:728][ 97]LogHandshake: SendConnectChallenge. Timestamp: 1.967099, Cookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:760][ 98]LogHandshake: SendChallengeAck. InCookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:760][ 98]LogNet: Server accepting post-challenge connection from: 76561198235309664:7777
+[2023.05.21-03.29.27:760][ 98]LogNet: SteamNetConnection_2147482191 setting maximum channels to: 32767
+[2023.05.21-03.29.27:761][ 98]PacketHandlerLog: Loaded PacketHandler component: OnlineSubsystemSteam.SteamAuthComponentModuleInterface ()
+[2023.05.21-03.29.27:761][ 98]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2023.05.21-03.29.27:761][ 98]LogOnline: STEAM: Adding user 76561198235309664:7777 from RegisterConnection
+[2023.05.21-03.29.27:761][ 98]LogNet: NotifyAcceptedConnection: Name: ProceduralGenerationMap, TimeStamp: 05/20/23 23:29:27, [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482191, Driver: GameNetDriver SteamNetDriver_2147482199, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.21-03.29.27:762][ 98]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482191, Driver: GameNetDriver SteamNetDriver_2147482199, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2023.05.21-03.29.27:762][ 98]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 107001068085075037140006214255252072112005079114041059115137.
+[2023.05.21-03.29.27:762][ 98]LogHandshake: SendChallengeAck. InCookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:763][ 98]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 107001068085075037140006214255252072112005079114041059115137.
+[2023.05.21-03.29.27:764][ 98]LogHandshake: SendChallengeAck. InCookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:764][ 98]LogHandshake: Received unexpected post-connect handshake packet - resending ack for LastChallengeSuccessAddress 76561198235309664:7777 and LastCookie 107001068085075037140006214255252072112005079114041059115137.
+[2023.05.21-03.29.27:764][ 98]LogHandshake: SendChallengeAck. InCookie: 107001068085075037140006214255252072112005079114041059115137
+[2023.05.21-03.29.27:793][ 99]LogOnline: STEAM: AUTH HANDLER: Sending auth result to user 76561198235309664 with flag success? 1
+[2023.05.21-03.29.27:827][100]LogNet: NotifyAcceptingChannel Control 0 server World /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap: Accepted
+[2023.05.21-03.29.27:827][100]LogNet: Remote platform little endian=1
+[2023.05.21-03.29.27:828][100]LogNet: This platform little endian=1
+[2023.05.21-03.29.27:860][101]LogNet: Login request: ?game=/Game/OnlineMenuSystem/BP_LobbyGameMode.BP_LobbyGameMode_C?Name=Dovakin7 userId: STEAM:UNKNOWN [0x11000011064D660] platform: STEAM
+[2023.05.21-03.29.27:894][102]LogNet: Client netspeed is 100000
+[2023.05.21-03.29.28:389][117]LogNet: Join request: /Game/FirstPerson/Maps/Level_Lobby?game=/Game/OnlineMenuSystem/BP_LobbyGameMode.BP_LobbyGameMode_C?Name=Dovakin7?SplitscreenCount=1
+[2023.05.21-03.29.28:389][117]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.05.21-03.29.28:390][117]LogTemp: Player Travel Complete Dovakin7
+[2023.05.21-03.29.28:390][117]LogLevel: Generating map with seed = 1217
+[2023.05.21-03.29.28:390][117]LogLevel: Spawned 1 MonsterSpawn
+[2023.05.21-03.29.28:390][117]LogLevel: Spawned 1 PlayerSpawn
+[2023.05.21-03.29.28:391][117]LogLevel: Spawned 4 Objectives
+[2023.05.21-03.29.28:391][117]LogLevel: Spawned 1 Other landmarks
+[2023.05.21-03.29.28:391][117]LogLevel: Spawned 1 Other landmarks
+[2023.05.21-03.29.28:541][117]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2023.05.21-03.29.28:546][117]LogNavigationDataBuild: Display:    RebuildAll building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2023.05.21-03.29.28:547][117]LogNavigationDataBuild: Display:    ANavigationData::RebuildAll load time: 0.00s
+[2023.05.21-03.29.28:547][117]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (2048, 11 bits) vs calculated maxtiles (9800, 14 bits)
+[2023.05.21-03.29.30:270][117]LogNavigationDataBuild: Display:    FRecastNavMeshGenerator::ProcessTileTasksAndGetUpdatedTiles build time: 1.72s
+[2023.05.21-03.29.30:270][117]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 1.73s
+[2023.05.21-03.29.30:271][117]LogLevel: NavMesh Set Successfully
+[2023.05.21-03.29.30:274][117]LogActor: Warning: BP_OutOfBoundEffectZone_C /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel.BP_OutOfBoundEffectZone_C_2147480853 has natively added scene component(s), but none of them were set as the actor's RootComponent - picking one arbitrarily
+[2023.05.21-03.29.30:293][117]LogLevel: LevelGenerated successfully
+[2023.05.21-03.29.30:294][117]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.05.21-03.29.30:295][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:296][117]LogAbilitySystemComponent: Display: Granting ability BP_ChangeItemAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:296][117]LogAbilitySystemComponent: Display: Granting ability BP_CrouchAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:296][117]LogAbilitySystemComponent: Display: Granting ability BP_DeathAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:296][117]LogAbilitySystemComponent: Display: Passive Ability BP_DeathAbility_C_2147480842 activated on BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:296][117]LogAbilitySystemComponent: Display: Granting ability BP_DropItemAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:297][117]LogAbilitySystemComponent: Display: Granting ability BP_HoldPressInput_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:297][117]LogAbilitySystemComponent: Display: Granting ability BP_PickupItemAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:297][117]LogAbilitySystemComponent: Display: Granting ability BP_ReloadColdAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:297][117]LogAbilitySystemComponent: Display: Passive Ability BP_ReloadColdAbility_C_2147480838 activated on BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:298][117]LogAbilitySystemComponent: Display: Granting ability BP_ReloadStaminaAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:298][117]LogAbilitySystemComponent: Display: Passive Ability BP_ReloadStaminaAbility_C_2147480837 activated on BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:299][117]LogAbilitySystemComponent: Display: Granting ability BP_SpeedAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:299][117]LogAbilitySystemComponent: Display: Granting ability BP_ThrowItemAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:299][117]LogAbilitySystemComponent: Display: Granting ability BP_TriggerItemAbility_C to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:299][117]LogAbilitySystemComponent: Display: Granted 11 abilities to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:300][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_PlayerCharacter_C_2147480850
+[2023.05.21-03.29.30:302][117]LogHttp: Display: GetUser URL = ec2-18-188-124-147.us-east-2.compute.amazonaws.com:80/api/users/Dovakin7
+[2023.05.21-03.29.30:302][117]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.05.21-03.29.30:303][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_WOMonstre_C_2147480803
+[2023.05.21-03.29.30:303][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_WOMonstre_C_2147480803
+[2023.05.21-03.29.30:303][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_WOMonstre_C_2147480803
+[2023.05.21-03.29.30:306][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480799
+[2023.05.21-03.29.30:306][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480799
+[2023.05.21-03.29.30:306][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480799
+[2023.05.21-03.29.30:311][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480794
+[2023.05.21-03.29.30:311][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480794
+[2023.05.21-03.29.30:312][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480794
+[2023.05.21-03.29.30:314][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480790
+[2023.05.21-03.29.30:314][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480790
+[2023.05.21-03.29.30:314][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480790
+[2023.05.21-03.29.30:316][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480786
+[2023.05.21-03.29.30:316][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480786
+[2023.05.21-03.29.30:317][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480786
+[2023.05.21-03.29.30:319][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480782
+[2023.05.21-03.29.30:319][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480782
+[2023.05.21-03.29.30:319][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480782
+[2023.05.21-03.29.30:321][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480778
+[2023.05.21-03.29.30:321][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480778
+[2023.05.21-03.29.30:321][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480778
+[2023.05.21-03.29.30:325][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480774
+[2023.05.21-03.29.30:325][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480774
+[2023.05.21-03.29.30:327][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480774
+[2023.05.21-03.29.30:329][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480770
+[2023.05.21-03.29.30:329][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480770
+[2023.05.21-03.29.30:330][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480770
+[2023.05.21-03.29.30:331][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480766
+[2023.05.21-03.29.30:331][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480766
+[2023.05.21-03.29.30:331][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480766
+[2023.05.21-03.29.30:333][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480762
+[2023.05.21-03.29.30:334][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480762
+[2023.05.21-03.29.30:334][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480762
+[2023.05.21-03.29.30:336][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480758
+[2023.05.21-03.29.30:336][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480758
+[2023.05.21-03.29.30:336][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480758
+[2023.05.21-03.29.30:338][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480754
+[2023.05.21-03.29.30:338][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480754
+[2023.05.21-03.29.30:339][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480754
+[2023.05.21-03.29.30:341][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480750
+[2023.05.21-03.29.30:341][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480750
+[2023.05.21-03.29.30:342][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480750
+[2023.05.21-03.29.30:344][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480746
+[2023.05.21-03.29.30:344][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480746
+[2023.05.21-03.29.30:344][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480746
+[2023.05.21-03.29.30:346][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480742
+[2023.05.21-03.29.30:347][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480742
+[2023.05.21-03.29.30:347][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480742
+[2023.05.21-03.29.30:349][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480738
+[2023.05.21-03.29.30:349][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480738
+[2023.05.21-03.29.30:350][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480738
+[2023.05.21-03.29.30:352][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480734
+[2023.05.21-03.29.30:352][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480734
+[2023.05.21-03.29.30:352][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480734
+[2023.05.21-03.29.30:354][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480730
+[2023.05.21-03.29.30:355][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480730
+[2023.05.21-03.29.30:355][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480730
+[2023.05.21-03.29.30:357][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480726
+[2023.05.21-03.29.30:357][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480726
+[2023.05.21-03.29.30:358][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480726
+[2023.05.21-03.29.30:360][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480722
+[2023.05.21-03.29.30:360][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480722
+[2023.05.21-03.29.30:360][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480722
+[2023.05.21-03.29.30:362][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480718
+[2023.05.21-03.29.30:362][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480718
+[2023.05.21-03.29.30:362][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480718
+[2023.05.21-03.29.30:364][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480714
+[2023.05.21-03.29.30:364][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480714
+[2023.05.21-03.29.30:365][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480714
+[2023.05.21-03.29.30:367][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480710
+[2023.05.21-03.29.30:367][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480710
+[2023.05.21-03.29.30:367][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480710
+[2023.05.21-03.29.30:370][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480706
+[2023.05.21-03.29.30:370][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480706
+[2023.05.21-03.29.30:370][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480706
+[2023.05.21-03.29.30:373][117]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_Spideye_C_2147480702
+[2023.05.21-03.29.30:373][117]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_Spideye_C_2147480702
+[2023.05.21-03.29.30:373][117]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_Spideye_C_2147480702
+[2023.05.21-03.29.30:376][117]LogNet: Join succeeded: Dovakin7
+[2023.05.21-03.29.30:409][117]LogClass: Warning: Property Monster::Identifiant (SourceClass: Monster) was not registered in GetLifetimeReplicatedProps. This property will not be replicated. Use DISABLE_REPLICATED_PROPERTY if not replicating was intentional.
+[2023.05.21-03.29.30:411][118]LogOnlineVoice: OSS: Removing all remote talkers
+[2023.05.21-03.29.33:478][210]LogNetPackageMap: Warning: FNetGUIDCache::SupportsObject: VOIPTalker /Engine/Transient.VOIPTalker_2147480681 NOT Supported.
+[2023.05.21-03.29.33:506][211]LogAbilitySystem: Display: InternalServerTryActivateAbility. Rejecting ClientActivation of Default__BP_DeathAbility_C. InternalTryActivateAbility failed: 
+[2023.05.21-03.29.33:507][211]LogAbilitySystem: Display: InternalServerTryActivateAbility. Rejecting ClientActivation of Default__BP_ReloadColdAbility_C. InternalTryActivateAbility failed: 
+[2023.05.21-03.29.33:507][211]LogAbilitySystem: Display: InternalServerTryActivateAbility. Rejecting ClientActivation of Default__BP_ReloadStaminaAbility_C. InternalTryActivateAbility failed: 
+[2023.05.21-03.29.34:169][231]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:170][231]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:203][232]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:204][232]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:236][233]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:270][234]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:273][234]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:304][235]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:305][235]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:337][236]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:338][236]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:370][237]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:403][238]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:436][239]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:469][240]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:502][241]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:536][242]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:537][242]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:569][243]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:602][244]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:636][245]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:669][246]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:703][247]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:704][247]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:737][248]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:771][249]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:804][250]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:806][250]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:837][251]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:871][252]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:904][253]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:906][253]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:938][254]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.34:971][255]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:004][256]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:038][257]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:071][258]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:074][258]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:104][259]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:137][260]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:170][261]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:172][261]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:204][262]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:238][263]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:271][264]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:273][264]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:305][265]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:338][266]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:372][267]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:405][268]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:406][268]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:438][269]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:471][270]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:504][271]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:506][271]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:537][272]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:571][273]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:603][274]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:637][275]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:639][275]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:671][276]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:704][277]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:737][278]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:738][278]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:770][279]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:803][280]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:836][281]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:838][281]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:870][282]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:903][283]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:936][284]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:938][284]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.35:969][285]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:002][286]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:035][287]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:036][287]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:069][288]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:102][289]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:135][290]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:136][290]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:168][291]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:201][292]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:234][293]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:236][293]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:268][294]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:302][295]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:335][296]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:336][296]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:368][297]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:402][298]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:435][299]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:436][299]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:468][300]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:501][301]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:535][302]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:536][302]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:568][303]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:602][304]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:635][305]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:636][305]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:668][306]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:701][307]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:734][308]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:735][308]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:767][309]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:800][310]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:833][311]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:835][311]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:866][312]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:899][313]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:932][314]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:933][314]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.36:966][315]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:000][316]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:002][316]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:033][317]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:066][318]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:099][319]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:100][319]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:133][320]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:167][321]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:200][322]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:201][322]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:234][323]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:267][324]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:300][325]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:333][326]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:335][326]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:367][327]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:400][328]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:434][329]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:435][329]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:467][330]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:501][331]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:534][332]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:568][333]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:570][333]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:601][334]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:634][335]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:666][336]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:699][337]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:702][337]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.37:732][338]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: ObjectName: BP_PlayerSpawnLandmark_C_2147481732, ObjOuter: /Game/FirstPerson/Maps/ProceduralGenerationMap.ProceduralGenerationMap:PersistentLevel 
+[2023.05.21-03.29.41:208][442]LogTemp: Display: BP_WOMonstre_C Root
+[2023.05.21-03.29.41:300][443]LogWOAI: Warning: Couche : NameLayerInfluenceMap::NumberPlayerPassage 0.982217 0
+[2023.05.21-03.29.41:301][443]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.29.41:301][443]LogWOAI: Warning: Couche : NameLayerInfluenceMap::PlayerGoal 0.321696 301
+[2023.05.21-03.29.41:302][443]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.29.41:302][443]LogWOAI: Warning: Couche : NameLayerInfluenceMap::Fire 0.268941 0
+[2023.05.21-03.29.41:302][443]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.29.41:302][443]LogWOAI: Warning: Couche : NameLayerInfluenceMap::Egg 0.863107 181
+[2023.05.21-03.29.41:302][443]LogWOAI: Warning: Nombre de fois : 1
+[2023.05.21-03.29.41:303][443]LogWOAI: Display: +00:00:00.061
+[2023.05.21-03.29.41:303][443]LogTemp: Display: BP_WOMonstre_C Find Mission
+[2023.05.21-03.29.41:313][444]LogTemp: Display: BP_WOMonstre_C Move To Spawner
+[2023.05.21-03.29.51:361][746]LogHttp: Warning: 000001CCDC3D8DF0: request failed, libcurl error: 28 (Timeout was reached)
+[2023.05.21-03.29.51:362][746]LogHttp: Warning: 000001CCDC3D8DF0: libcurl info message cache 0 (  Trying 18.188.124.147:80...)
+[2023.05.21-03.29.51:363][746]LogHttp: Warning: 000001CCDC3D8DF0: libcurl info message cache 1 (connect to 18.188.124.147 port 80 failed: Timed out)
+[2023.05.21-03.29.51:363][746]LogHttp: Warning: 000001CCDC3D8DF0: libcurl info message cache 2 (Failed to connect to ec2-18-188-124-147.us-east-2.compute.amazonaws.com port 80 after 21031 ms: Timed out)
+[2023.05.21-03.29.51:364][746]LogHttp: Warning: 000001CCDC3D8DF0: libcurl info message cache 3 (Closing connection 0)
+[2023.05.21-03.29.51:364][746]LogHttp: Display: Get User Response Received :)
+[2023.05.21-03.29.51:364][746]LogHttp: Display: Connection was not successful 
+[2023.05.21-03.29.52:152][769]LogStreaming: Display: 0.024 ms for processing 295 objects in RemoveUnreachableObjects(Queued=0, Async=0). Removed 0 (1148->1148) packages and 9 (3473->3464) public exports.
+[2023.05.21-03.30.01:236][ 41]LogTemp: Display: BP_WOMonstre_C Verify Can Grab Spawner
+[2023.05.21-03.30.03:672][114]LogTemp: Display: BP_WOMonstre_C Grab Spawner
+[2023.05.21-03.30.03:705][115]LogTemp: Display: BP_WOMonstre_C Select Nest
+[2023.05.21-03.30.21:276][642]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2023.05.21-03.30.21:276][642]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482191, Driver: GameNetDriver SteamNetDriver_2147482199, IsServer: YES, PC: BP_WhiteoutPlayerController_C_2147482187, Owner: BP_WhiteoutPlayerController_C_2147482187, UniqueId: STEAM:UNKNOWN [0x11000011064D660]
+[2023.05.21-03.30.21:276][642]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482191, Driver: GameNetDriver SteamNetDriver_2147482199, IsServer: YES, PC: BP_WhiteoutPlayerController_C_2147482187, Owner: BP_WhiteoutPlayerController_C_2147482187, UniqueId: STEAM:UNKNOWN [0x11000011064D660], Channels: 76, Time: 2023.05.21-03.30.21
+[2023.05.21-03.30.21:277][642]LogNet: UNetConnection::SendCloseReason:
+[2023.05.21-03.30.21:277][642]LogNet:  - Result=ControlChannelClose, ErrorContext="ControlChannelClose"
+[2023.05.21-03.30.21:277][642]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 76561198235309664:7777, Name: SteamNetConnection_2147482191, Driver: GameNetDriver SteamNetDriver_2147482199, IsServer: YES, PC: BP_WhiteoutPlayerController_C_2147482187, Owner: BP_WhiteoutPlayerController_C_2147482187, UniqueId: STEAM:UNKNOWN [0x11000011064D660]
+[2023.05.21-03.30.21:309][643]LogOnlineVoice: OSS: Removing all remote talkers
+[2023.05.21-03.30.21:309][643]LogNet: Warning: UNetDriver::ProcessRemoteFunction: Remote function NetMulticast_InvokeGameplayCueAdded_WithParams called from actor BP_PlayerCharacter_C_2147480850 while actor is being destroyed. Function will not be processed.
+[2023.05.21-03.30.21:311][643]LogOnline: STEAM: Removing P2P Session Id: UNKNOWN [0x11000011064D660], Channel: 7777, IdleTime: 0.035
+[2023.05.21-03.30.22:822][689]LogOnline: STEAM: Closing channel 7777 with user 76561198235309664
+[2023.05.21-03.30.22:825][689]LogOnline: STEAM: 76561198235309664 has been removed.
+[2023.05.21-03.30.23:085][696]LogTemp: Display: BP_WOMonstre_C Verify Can Spawn Monster
+[2023.05.21-03.30.25:452][767]LogTemp: Display: BP_WOMonstre_C Monster Spawned
+[2023.05.21-03.30.25:485][768]LogAbilitySystemComponent: Display: AddCharacterAbilities to Character BP_WOMonsterVision_C_2147480370
+[2023.05.21-03.30.25:486][768]LogAbilitySystemComponent: Display: Granted 0 abilities to Character BP_WOMonsterVision_C_2147480370
+[2023.05.21-03.30.25:486][768]LogAbilitySystemComponent: Display: Granted the correct number of abilities to Character BP_WOMonsterVision_C_2147480370
+[2023.05.21-03.30.25:619][772]LogTemp: Display: BP_WOMonstre_C Root
+[2023.05.21-03.30.25:708][773]LogWOAI: Warning: Couche : NameLayerInfluenceMap::NumberPlayerPassage 0.982852 0
+[2023.05.21-03.30.25:709][773]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.30.25:710][773]LogWOAI: Warning: Couche : NameLayerInfluenceMap::PlayerGoal 0.337519 306
+[2023.05.21-03.30.25:710][773]LogWOAI: Warning: Nombre de fois : 1
+[2023.05.21-03.30.25:710][773]LogWOAI: Warning: Couche : NameLayerInfluenceMap::Fire 0.268941 0
+[2023.05.21-03.30.25:711][773]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.30.25:712][773]LogWOAI: Warning: Couche : NameLayerInfluenceMap::Egg 0.470971 0
+[2023.05.21-03.30.25:712][773]LogWOAI: Warning: Nombre de fois : 1
+[2023.05.21-03.30.25:713][773]LogWOAI: Display: +00:00:00.060
+[2023.05.21-03.30.25:713][773]LogTemp: Display: BP_WOMonstre_C Find Mission
+[2023.05.21-03.30.25:719][774]LogTemp: Display: BP_WOMonstre_C Puzzle
+[2023.05.21-03.30.32:164][967]LogTemp: Display: BP_WOMonsterVision_C Root
+[2023.05.21-03.30.32:251][968]LogWOAI: Display: +00:00:00.055
+[2023.05.21-03.30.32:252][968]LogTemp: Display: BP_WOMonsterVision_C Find Mission
+[2023.05.21-03.30.32:261][969]LogTemp: Display: BP_WOMonsterVision_C No Mission Found
+[2023.05.21-03.30.45:229][358]LogTemp: Display: BP_WOMonstre_C Root
+[2023.05.21-03.30.45:320][359]LogWOAI: Display: +00:00:00.057
+[2023.05.21-03.30.45:320][359]LogTemp: Display: BP_WOMonstre_C Find Mission
+[2023.05.21-03.30.45:326][360]LogTemp: Display: BP_WOMonstre_C No Mission Found
+[2023.05.21-03.30.51:092][533]LogTemp: Display: BP_WOMonsterVision_C Root
+[2023.05.21-03.30.51:180][534]LogWOAI: Warning: Couche : NameLayerInfluenceMap::NumberPlayerPassage 0.073467 0
+[2023.05.21-03.30.51:181][534]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.30.51:181][534]LogWOAI: Warning: Couche : NameLayerInfluenceMap::PlayerGoal 0.002504 74
+[2023.05.21-03.30.51:181][534]LogWOAI: Warning: Nombre de fois : 1
+[2023.05.21-03.30.51:182][534]LogWOAI: Warning: Couche : NameLayerInfluenceMap::Fire 0.001278 0
+[2023.05.21-03.30.51:182][534]LogWOAI: Warning: Nombre de fois : 0
+[2023.05.21-03.30.51:183][534]LogWOAI: Display: +00:00:00.058
+[2023.05.21-03.30.51:183][534]LogTemp: Display: BP_WOMonsterVision_C Find Mission
+[2023.05.21-03.30.51:190][535]LogTemp: Display: BP_WOMonsterVision_C Puzzle
+[2023.05.21-03.31.02:486][849]LogTemp: Display: BP_WOMonsterVision_C Root
+[2023.05.21-03.31.02:648][850]LogWOAI: Display: +00:00:00.057
+[2023.05.21-03.31.02:729][850]LogTemp: Display: BP_WOMonsterVision_C Find Mission
+[2023.05.21-03.31.02:835][851]LogTemp: Display: BP_WOMonsterVision_C No Mission Found
+[2023.05.21-03.31.06:193][947]LogTemp: Display: BP_WOMonstre_C Root
+[2023.05.21-03.31.06:282][948]LogWOAI: Display: +00:00:00.056
+[2023.05.21-03.31.06:282][948]LogTemp: Display: BP_WOMonstre_C Find Mission
+[2023.05.21-03.31.06:289][949]LogTemp: Display: BP_WOMonstre_C No Mission Found
+[2023.05.21-03.31.09:465][ 45]LogCore: Engine exit requested (reason: ConsoleCtrl RequestExit)
+[2023.05.21-03.31.09:465][ 45]LogCore: Warning: *** INTERRUPTED *** : SHUTTING DOWN
+[2023.05.21-03.31.09:466][ 45]LogCore: Warning: *** INTERRUPTED *** : CTRL-C TO FORCE QUIT
+[2023.05.21-03.31.09:499][ 46]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.21-03.31.09:500][ 46]LogInit: Display: PreExit Game.
+[2023.05.21-03.31.09:503][ 46]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/ProceduralGenerationMap
+[2023.05.21-03.31.09:503][ 46]LogNet: World NetDriver shutdown SteamNetDriver_2147482199 [GameNetDriver]
+[2023.05.21-03.31.09:503][ 46]LogNet: DestroyNamedNetDriver SteamNetDriver_2147482199 [GameNetDriver]
+[2023.05.21-03.31.09:506][ 46]LogExit: GameNetDriver SteamNetDriver_2147482199 shut down
+[2023.05.21-03.31.09:509][ 46]LogWorld: UWorld::CleanupWorld for ProceduralGenerationMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.21-03.31.09:536][ 46]LogExit: Preparing to exit.
+[2023.05.21-03.31.09:553][ 46]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.05.21-03.31.09:554][ 46]LogExit: Game engine shut down
+[2023.05.21-03.31.09:590][ 46]LogExit: Object subsystem successfully closed.
+[2023.05.21-03.31.09:591][ 46]LogModuleManager: Shutting down and abandoning module AutomationController (320)
+[2023.05.21-03.31.09:591][ 46]LogModuleManager: Shutting down and abandoning module AutomationWorker (318)
+[2023.05.21-03.31.09:591][ 46]LogModuleManager: Shutting down and abandoning module AIModule (316)
+[2023.05.21-03.31.09:592][ 46]LogModuleManager: Shutting down and abandoning module NavigationSystem (315)
+[2023.05.21-03.31.09:592][ 46]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (312)
+[2023.05.21-03.31.09:592][ 46]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (310)
+[2023.05.21-03.31.09:592][ 46]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (308)
+[2023.05.21-03.31.09:593][ 46]LogModuleManager: Shutting down and abandoning module CharacterAI (306)
+[2023.05.21-03.31.09:593][ 46]LogModuleManager: Shutting down and abandoning module SessionServices (304)
+[2023.05.21-03.31.09:593][ 46]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (302)
+[2023.05.21-03.31.09:593][ 46]LogModuleManager: Shutting down and abandoning module MovieScene (300)
+[2023.05.21-03.31.09:593][ 46]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (298)
+[2023.05.21-03.31.09:594][ 46]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (296)
+[2023.05.21-03.31.09:595][ 46]LogModuleManager: Shutting down and abandoning module ImageWrapper (295)
+[2023.05.21-03.31.09:595][ 46]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (292)
+[2023.05.21-03.31.09:595][ 46]LogModuleManager: Shutting down and abandoning module TypedElementFramework (290)
+[2023.05.21-03.31.09:595][ 46]LogModuleManager: Shutting down and abandoning module TakeMovieScene (288)
+[2023.05.21-03.31.09:596][ 46]LogModuleManager: Shutting down and abandoning module TraceUtilities (286)
+[2023.05.21-03.31.09:596][ 46]LogModuleManager: Shutting down and abandoning module ResonanceAudio (284)
+[2023.05.21-03.31.09:598][ 46]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (282)
+[2023.05.21-03.31.09:599][ 46]LogModuleManager: Shutting down and abandoning module InputDebugging (280)
+[2023.05.21-03.31.09:599][ 46]LogModuleManager: Shutting down and abandoning module GooglePAD (278)
+[2023.05.21-03.31.09:599][ 46]LogModuleManager: Shutting down and abandoning module DynamicMesh (276)
+[2023.05.21-03.31.09:601][ 46]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (274)
+[2023.05.21-03.31.09:601][ 46]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (272)
+[2023.05.21-03.31.09:602][ 46]LogModuleManager: Shutting down and abandoning module GeometryCache (270)
+[2023.05.21-03.31.09:602][ 46]LogModuleManager: Shutting down and abandoning module AudioWidgets (268)
+[2023.05.21-03.31.09:602][ 46]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (267)
+[2023.05.21-03.31.09:602][ 46]LogModuleManager: Shutting down and abandoning module AudioCapture (264)
+[2023.05.21-03.31.09:603][ 46]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (263)
+[2023.05.21-03.31.09:603][ 46]LogModuleManager: Shutting down and abandoning module AssetTags (260)
+[2023.05.21-03.31.09:603][ 46]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (258)
+[2023.05.21-03.31.09:603][ 46]LogModuleManager: Shutting down and abandoning module AppleImageUtils (256)
+[2023.05.21-03.31.09:604][ 46]LogModuleManager: Shutting down and abandoning module AndroidPermission (254)
+[2023.05.21-03.31.09:604][ 46]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (252)
+[2023.05.21-03.31.09:604][ 46]LogModuleManager: Shutting down and abandoning module TemplateSequence (246)
+[2023.05.21-03.31.09:604][ 46]LogModuleManager: Shutting down and abandoning module SequencerScripting (244)
+[2023.05.21-03.31.09:605][ 46]LogModuleManager: Shutting down and abandoning module MediaPlate (242)
+[2023.05.21-03.31.09:605][ 46]LogModuleManager: Shutting down and abandoning module MediaCompositing (240)
+[2023.05.21-03.31.09:605][ 46]LogModuleManager: Shutting down and abandoning module ImgMedia (238)
+[2023.05.21-03.31.09:605][ 46]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (236)
+[2023.05.21-03.31.09:605][ 46]LogModuleManager: Shutting down and abandoning module Landmass (234)
+[2023.05.21-03.31.09:606][ 46]LogModuleManager: Shutting down and abandoning module Iris (232)
+[2023.05.21-03.31.09:606][ 46]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (230)
+[2023.05.21-03.31.09:606][ 46]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (228)
+[2023.05.21-03.31.09:606][ 46]LogModuleManager: Shutting down and abandoning module DataflowNodes (226)
+[2023.05.21-03.31.09:607][ 46]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (224)
+[2023.05.21-03.31.09:607][ 46]LogModuleManager: Shutting down and abandoning module ChaosNiagara (222)
+[2023.05.21-03.31.09:607][ 46]LogModuleManager: Shutting down and abandoning module BackChannel (220)
+[2023.05.21-03.31.09:607][ 46]LogModuleManager: Shutting down and abandoning module AutomationUtils (218)
+[2023.05.21-03.31.09:607][ 46]LogModuleManager: Shutting down and abandoning module UObjectPlugin (216)
+[2023.05.21-03.31.09:608][ 46]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (214)
+[2023.05.21-03.31.09:608][ 46]LogModuleManager: Shutting down and abandoning module ControlRigSpline (212)
+[2023.05.21-03.31.09:608][ 46]LogModuleManager: Shutting down and abandoning module Whiteout (210)
+[2023.05.21-03.31.09:608][ 46]LogModuleManager: Shutting down and abandoning module AkAudioMixer (208)
+[2023.05.21-03.31.09:609][ 46]LogModuleManager: Shutting down and abandoning module AkAudio (207)
+[2023.05.21-03.31.09:609][ 46]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (204)
+[2023.05.21-03.31.09:609][ 46]LogModuleManager: Shutting down and abandoning module AdvancedSessions (202)
+[2023.05.21-03.31.09:609][ 46]LogModuleManager: Shutting down and abandoning module Synthesis (200)
+[2023.05.21-03.31.09:610][ 46]LogModuleManager: Shutting down and abandoning module SteamAudio (198)
+[2023.05.21-03.31.09:610][ 46]LogSteamAudio: FSteamAudioModule Shutdown
+[2023.05.21-03.31.09:610][ 46]LogModuleManager: Shutting down and abandoning module StateTreeModule (196)
+[2023.05.21-03.31.09:610][ 46]LogModuleManager: Shutting down and abandoning module SoundUtilities (194)
+[2023.05.21-03.31.09:610][ 46]LogModuleManager: Shutting down and abandoning module SoundFields (192)
+[2023.05.21-03.31.09:611][ 46]LogModuleManager: Shutting down and abandoning module SignificanceManager (190)
+[2023.05.21-03.31.09:611][ 46]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (188)
+[2023.05.21-03.31.09:611][ 46]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (186)
+[2023.05.21-03.31.09:611][ 46]LogModuleManager: Shutting down and abandoning module MetasoundEngine (184)
+[2023.05.21-03.31.09:612][ 46]LogModuleManager: Shutting down and abandoning module WaveTable (183)
+[2023.05.21-03.31.09:614][ 46]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (181)
+[2023.05.21-03.31.09:614][ 46]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (178)
+[2023.05.21-03.31.09:614][ 46]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (176)
+[2023.05.21-03.31.09:615][ 46]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (174)
+[2023.05.21-03.31.09:615][ 46]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (172)
+[2023.05.21-03.31.09:615][ 46]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (170)
+[2023.05.21-03.31.09:615][ 46]LogModuleManager: Shutting down and abandoning module GameplayStateTreeModule (168)
+[2023.05.21-03.31.09:616][ 46]LogModuleManager: Shutting down and abandoning module GameplayAbilities (166)
+[2023.05.21-03.31.09:616][ 46]LogModuleManager: Shutting down and abandoning module DataRegistry (164)
+[2023.05.21-03.31.09:616][ 46]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (162)
+[2023.05.21-03.31.09:616][ 46]LogModuleManager: Shutting down and abandoning module CableComponent (160)
+[2023.05.21-03.31.09:616][ 46]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (158)
+[2023.05.21-03.31.09:617][ 46]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (157)
+[2023.05.21-03.31.09:617][ 46]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (154)
+[2023.05.21-03.31.09:617][ 46]LogModuleManager: Shutting down and abandoning module ActorSequence (152)
+[2023.05.21-03.31.09:617][ 46]LogModuleManager: Shutting down and abandoning module UdpMessaging (150)
+[2023.05.21-03.31.09:618][ 46]LogModuleManager: Shutting down and abandoning module TcpMessaging (148)
+[2023.05.21-03.31.09:618][ 46]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (146)
+[2023.05.21-03.31.09:618][ 46]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (144)
+[2023.05.21-03.31.09:618][ 46]LogModuleManager: Shutting down and abandoning module Niagara (142)
+[2023.05.21-03.31.09:618][ 46]LogModuleManager: Shutting down and abandoning module SignalProcessing (141)
+[2023.05.21-03.31.09:619][ 46]LogModuleManager: Shutting down and abandoning module NiagaraCore (138)
+[2023.05.21-03.31.09:619][ 46]LogModuleManager: Shutting down and abandoning module StructUtils (136)
+[2023.05.21-03.31.09:619][ 46]LogModuleManager: Shutting down and abandoning module PBIK (134)
+[2023.05.21-03.31.09:619][ 46]LogModuleManager: Shutting down and abandoning module FullBodyIK (132)
+[2023.05.21-03.31.09:620][ 46]LogModuleManager: Shutting down and abandoning module ChaosCaching (130)
+[2023.05.21-03.31.09:620][ 46]LogModuleManager: Shutting down and abandoning module EnhancedInput (128)
+[2023.05.21-03.31.09:620][ 46]LogModuleManager: Shutting down and abandoning module FacialAnimation (126)
+[2023.05.21-03.31.09:620][ 46]LogModuleManager: Shutting down and abandoning module AnimationSharing (124)
+[2023.05.21-03.31.09:620][ 46]LogModuleManager: Shutting down and abandoning module GameplayCameras (122)
+[2023.05.21-03.31.09:621][ 46]LogModuleManager: Shutting down and abandoning module IKRig (120)
+[2023.05.21-03.31.09:621][ 46]LogModuleManager: Shutting down and abandoning module ControlRig (118)
+[2023.05.21-03.31.09:621][ 46]LogModuleManager: Shutting down and abandoning module LevelSequence (117)
+[2023.05.21-03.31.09:621][ 46]LogModuleManager: Shutting down and abandoning module Paper2D (114)
+[2023.05.21-03.31.09:622][ 46]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (112)
+[2023.05.21-03.31.09:622][ 46]LogModuleManager: Shutting down and abandoning module AndroidFileServer (110)
+[2023.05.21-03.31.09:622][ 46]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (108)
+[2023.05.21-03.31.09:623][ 46]LogModuleManager: Shutting down and abandoning module PacketHandler (106)
+[2023.05.21-03.31.09:623][ 46]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (104)
+[2023.05.21-03.31.09:623][ 46]LogModuleManager: Shutting down and abandoning module MediaAssets (102)
+[2023.05.21-03.31.09:623][ 46]LogModuleManager: Shutting down and abandoning module Messaging (100)
+[2023.05.21-03.31.09:624][ 46]LogModuleManager: Shutting down and abandoning module Networking (98)
+[2023.05.21-03.31.09:624][ 46]LogModuleManager: Shutting down and abandoning module Core (96)
+[2023.05.21-03.31.09:624][ 46]LogModuleManager: Shutting down and abandoning module Media (94)
+[2023.05.21-03.31.09:624][ 46]LogModuleManager: Shutting down and abandoning module NullDrv (90)
+[2023.05.21-03.31.09:624][ 46]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (88)
+[2023.05.21-03.31.09:625][ 46]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (87)
+[2023.05.21-03.31.09:625][ 46]LogModuleManager: Shutting down and abandoning module Chaos (84)
+[2023.05.21-03.31.09:625][ 46]LogModuleManager: Shutting down and abandoning module GeometryCore (83)
+[2023.05.21-03.31.09:625][ 46]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (80)
+[2023.05.21-03.31.09:626][ 46]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2023.05.21-03.31.09:626][ 46]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2023.05.21-03.31.09:626][ 46]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2023.05.21-03.31.09:626][ 46]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2023.05.21-03.31.09:626][ 46]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.05.21-03.31.09:627][ 46]LogOnline: STEAM: AUTH: Revoking all tickets.
+[2023.05.21-03.31.09:627][ 46]LogSteamShared: Unloading the Steam server API...
+[2023.05.21-03.31.09:709][ 46]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2023.05.21-03.31.09:710][ 46]LogModuleManager: Shutting down and abandoning module SteamShared (68)
+[2023.05.21-03.31.09:711][ 46]LogSteamShared: Freeing the Steam Loaded Modules...
+[2023.05.21-03.31.09:711][ 46]LogModuleManager: Shutting down and abandoning module HTTP (65)
+[2023.05.21-03.31.09:724][ 46]LogModuleManager: Shutting down and abandoning module SSL (64)
+[2023.05.21-03.31.09:724][ 46]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (60)
+[2023.05.21-03.31.09:724][ 46]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (58)
+[2023.05.21-03.31.09:725][ 46]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (56)
+[2023.05.21-03.31.09:725][ 46]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (54)
+[2023.05.21-03.31.09:725][ 46]LogModuleManager: Shutting down and abandoning module EOSShared (52)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (50)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (48)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module NiagaraShader (46)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module ChaosCloth (44)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module VariantManagerContent (42)
+[2023.05.21-03.31.09:726][ 46]LogModuleManager: Shutting down and abandoning module GLTFExporter (40)
+[2023.05.21-03.31.09:727][ 46]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2023.05.21-03.31.09:727][ 46]LogModuleManager: Shutting down and abandoning module AISupportModule (36)
+[2023.05.21-03.31.09:727][ 46]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (34)
+[2023.05.21-03.31.09:727][ 46]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (32)
+[2023.05.21-03.31.09:727][ 46]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (30)
+[2023.05.21-03.31.09:728][ 46]LogModuleManager: Shutting down and abandoning module PlatformCrypto (28)
+[2023.05.21-03.31.09:728][ 46]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.05.21-03.31.09:728][ 46]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.05.21-03.31.09:728][ 46]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.05.21-03.31.09:729][ 46]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.05.21-03.31.09:729][ 46]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.05.21-03.31.09:729][ 46]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.05.21-03.31.09:729][ 46]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.05.21-03.31.09:729][ 46]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.05.21-03.31.09:730][ 46]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.05.21-03.31.09:730][ 46]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.05.21-03.31.09:731][ 46]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.05.21-03.31.09:731][ 46]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.05.21-03.31.09:731][ 46]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.05.21-03.31.09:734][ 46]LogExit: Exiting.
+[2023.05.21-03.31.09:782][ 46]Log file closed, 05/20/23 23:31:09

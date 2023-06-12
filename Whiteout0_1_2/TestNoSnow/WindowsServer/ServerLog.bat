@@ -1,0 +1,1 @@
+START WhiteoutServer.exe -log
