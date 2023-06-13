@@ -2,7 +2,7 @@
 
 Jeu d'horreur survie multijoueur en ligne réalisé sous Unreal Engine 5.1. Projet de session d'hiver 2023 du DDJV à l'université de Sherbrooke réalisé par l'équipe Zero Factory en collaboration avec une équipe de l'école de musique de l'université de Sherbrooke.  
   
-<u>Zero Factory :</u>
+<ins>Zero Factory :</ins>
   - Boulanger Charles-Antoine
   - Brieuc Bautz
   - Bricout Titouan
@@ -10,7 +10,7 @@ Jeu d'horreur survie multijoueur en ligne réalisé sous Unreal Engine 5.1. Proj
   - Dubuc Alexandre
   - Lemieux Xavier
 
-<u>Équipe de musique :</u>
+<ins>Équipe de musique :</ins>
   - Lévêque Vincent
   - Ouellet Jean-Christophe
   - Riviere Laurentin
