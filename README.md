@@ -1,6 +1,7 @@
 # Whiteout
 
 Jeu d'horreur survie multijoueur en ligne réalisé sous Unreal Engine 5.1. Projet de session d'hiver 2023 du DDJV à l'université de Sherbrooke réalisé par l'équipe Zero Factory en collaboration avec une équipe de l'école de musique de l'université de Sherbrooke.  
+  
 Zero Factory :
   - Boulanger Charles-Antoine
   - Brieuc Bautz
